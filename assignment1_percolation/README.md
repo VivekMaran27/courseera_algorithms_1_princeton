@@ -1,8 +1,8 @@
 # Assignment description
-[Link] (http://coursera.cs.princeton.edu/algs4/assignments/percolation.html)
+[Link](http://coursera.cs.princeton.edu/algs4/assignments/percolation.html)
 
 # Steps to verify
-1. Import the intellij intellij_project/Percolation.zip into your IntelliJ IDE. I used the one in [Link] (https://lift.cs.princeton.edu/java/windows/)
+1. Import the intellij intellij_project/Percolation.zip into your IntelliJ IDE. I used the one in [Link](https://lift.cs.princeton.edu/java/windows/)
 2. Click Build->Build Project
 3. In the project window, right click 'PercolationStats' and click 'Run 'PercolationStats.main()'' 
 4. The program expects two integer arguments, the grid size and trials. It can be configured in 'Run->Edit Configurations->Program arguments'  
