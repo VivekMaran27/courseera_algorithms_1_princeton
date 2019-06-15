@@ -9,19 +9,19 @@
 
 # Sample output
 
-##For inputs 200 100
-Mean                    = 0.592552
-stddev                  = 0.008997035212426164
-95% confidence interval = [0.590788831098364700 0.594315668901635800]
+  ##For inputs 200 100
+  Mean                    = 0.592552
+  stddev                  = 0.008997035212426164
+  95% confidence interval = [0.590788831098364700 0.594315668901635800]
 
-##For inputs 2 10000
-Mean                    = 0.665750
-stddev                  = 0.118177130120042970
-95% confidence interval = [0.663433728249647100 0.668066271750352800]
+  ##For inputs 2 10000
+  Mean                    = 0.665750
+  stddev                  = 0.118177130120042970
+  95% confidence interval = [0.663433728249647100 0.668066271750352800]
 
-##For inputs 2 100000
-Mean                    = 0.666588
-stddev                  = 0.117879679334208940
-95% confidence interval = [0.665856874177969100 0.667318125822030900]
+  ##For inputs 2 100000
+  Mean                    = 0.666588
+  stddev                  = 0.117879679334208940
+  95% confidence interval = [0.665856874177969100 0.667318125822030900]
 
 Thanks to professor Bob Sedgewick  for creating and guiding through this assignment.
